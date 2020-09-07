@@ -10,6 +10,9 @@ person:
   dog:
     name: hanfei
     age: 20
+  Cat:
+    catName: zhaogang
+    age: 20
 debug: true
 serve:
   port: 8087

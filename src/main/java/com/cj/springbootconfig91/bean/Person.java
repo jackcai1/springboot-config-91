@@ -88,5 +88,6 @@ public class Person {
     private Map<String, Object> map1;
     private List<Object> list1;
     private Dog dog;
+    private Cat cat;
 
 }
