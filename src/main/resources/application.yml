@@ -9,7 +9,7 @@ person:
     -lisi
   dog:
     name: hanfei
-    age: 2
+    age: 20
 debug: true
 serve:
   port: 8087
