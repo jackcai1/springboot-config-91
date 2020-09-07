@@ -1,0 +1,13 @@
+person:
+  lastName: caijun
+  age: 18
+  box: true
+  birth: 2000/01/01
+  map1: {k1: v1,k2: v2}
+  list1:
+    -zhangsan
+    -lisi
+  dog:
+    name: hanfei
+    age: 2
+debug: true
