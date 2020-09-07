@@ -11,3 +11,5 @@ person:
     name: hanfei
     age: 2
 debug: true
+serve:
+  port: 8088
