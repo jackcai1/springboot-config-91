@@ -12,4 +12,4 @@ person:
     age: 2
 debug: true
 serve:
-  port: 8088
+  port: 8087
